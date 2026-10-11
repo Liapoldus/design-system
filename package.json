@@ -2,6 +2,10 @@
   "name": "@liapoldus/design-system",
   "version": "0.1.0",
   "description": "Brand assets, design tokens and iconography for the Liapoldus ecosystem.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Liapoldus/design-system.git"
+  },
   "license": "MIT",
   "private": false,
   "type": "module",
