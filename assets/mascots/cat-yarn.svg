@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title"><title id="title">Кот Liapoldus с клубком пряжи</title><g stroke="#1F3A32" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path fill="#FF641C" d="M157 364c-55 3-74 42-60 73 11 24 45 25 61 6 12-15 8-37-7-46-12-7-27-2-31 10-3 8 1 16 8 19"/>
+  <path fill="#FF641C" d="M151 357c4-47 42-76 100-76 65 0 104 32 107 85l5 85H151v-94Z"/>
+  <path fill="#FAF9F5" d="M214 370c7-20 23-30 40-30s33 10 40 30l20 81h-120l20-81Z"/>
+  <path fill="#FF641C" d="m171 304 8-82 57 51m79 31-7-82-57 51"/>
+  <path fill="#FFD4A3" d="m190 277 3-27 26 24m73 3-3-27-26 24"/>
+  <path fill="#FF641C" d="M174 317c0-46 34-78 78-78s78 32 78 78v25c0 42-35 71-78 71s-78-29-78-71v-25Z"/>
+  <path fill="#FAF9F5" d="M215 347c7-12 19-19 37-19s30 7 37 19c-5 18-19 29-37 29s-32-11-37-29Z"/>
+  <circle fill="#0F1A17" cx="220" cy="322" r="5"/><circle fill="#0F1A17" cx="284" cy="322" r="5"/>
+  <path fill="#0F1A17" d="m245 340 7-5 7 5-7 6-7-6Z"/><path fill="none" d="M252 346c-3 8-9 11-16 9m16-9c3 8 9 11 16 9"/>
+  <path fill="none" d="M192 345h-23m26 7-22 7m134-14h23m-26 7 22 7"/>
+</g><g stroke="#1F3A32" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="365" cy="380" r="75" fill="#FF641C"/>
+  <path fill="none" stroke="#FFD4A3" stroke-width="12" d="M302 369c35-38 78-43 123-16m-128 47c42-24 77-54 101-91m-72 133c27-42 61-72 104-91m-59 96c5-28 22-54 49-73"/>
+  <path fill="none" stroke="#FF641C" stroke-width="10" d="M302 422c-37 8-63 10-98 4-31-5-47-22-38-40 6-12 23-14 35-5"/>
+</g></svg>

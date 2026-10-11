@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m10 8 6 4-6 4V8Z" fill="#FF641C" stroke="#FF641C"/><path d="M12 3v2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-runtime">
+  <title id="title-runtime">Runtime execution</title>
+  <g stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9"/><path fill="#FFD4A3" stroke="#1F3A32" d="M10 8.3a.8.8 0 0 1 1.2-.7l5.2 3.6a1 1 0 0 1 0 1.6l-5.2 3.6a.8.8 0 0 1-1.2-.7V8.3Z"/>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 {
   "name": "@liapoldus/design-system",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Brand assets, design tokens and iconography for the Liapoldus ecosystem.",
   "repository": {
     "type": "git",
@@ -10,10 +10,14 @@
   "private": false,
   "type": "module",
   "scripts": {
-    "build:native-icons": "node scripts/build-native-icons.mjs"
+    "build:native-icons": "node scripts/build-native-icons.mjs",
+    "build:mascots": "node scripts/build-mascot-pngs.mjs",
+    "build:package": "node scripts/build-package-assets.mjs",
+    "build:assets": "npm run build:native-icons && npm run build:mascots && npm run build:package",
+    "check:svg": "python3 scripts/validate-svg.py --render && npm run build:package && python3 scripts/validate-svg.py --package --render"
   },
   "files": [
-    "assets/",
+    "dist/",
     "tokens/",
     "docs/",
     "README.md",
@@ -22,8 +26,13 @@
   "exports": {
     "./tokens.css": "./tokens/tokens.css",
     "./tokens.json": "./tokens/tokens.json",
-    "./logo/*": "./assets/logo/*",
-    "./icons/*": "./assets/icons/*",
-    "./mascots/*": "./assets/mascots/*"
+    "./logo/*": "./dist/logo/*",
+    "./icons/*": "./dist/icons/*",
+    "./mascots/*": "./dist/mascots/*",
+    "./fonts.css": "./dist/fonts/fonts.css",
+    "./fonts/*": "./dist/fonts/*"
+  },
+  "devDependencies": {
+    "svgo": "4.1.0"
   }
 }

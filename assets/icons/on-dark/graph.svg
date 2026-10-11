@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-graph">
+  <title id="title-dark-graph">Graph connections</title>
+  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m6 6 5.1 5.1m1.8 1.8L18 18M8.4 5.5l7.2-.1m-9 13.2 7.6-5.5"/><circle cx="5.2" cy="5.2" r="2.3"/><circle cx="18.8" cy="5.2" r="2.3"/><circle cx="18.8" cy="18.8" r="2.3"/><circle fill="#FF641C" stroke="#FF641C" cx="12" cy="12" r="2.4"/>
+  </g>
+</svg>

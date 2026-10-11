@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
-  <path d="M25 39 22 13c11 4 20 11 27 21m54 5 3-26c-11 4-20 11-27 21" stroke="#FF641C" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M15 69c0-27 22-49 49-49s49 22 49 49c0 25-20 45-45 45-24 0-42-17-42-39 0-19 15-34 34-34 17 0 30 13 30 29 0 14-11 25-25 25-12 0-21-9-21-20 0-9 7-16 16-16 7 0 13 6 13 13" stroke="#FF641C" stroke-width="9" stroke-linecap="round"/>
-  <path d="M19 77c12-8 28-8 40 1 9 7 16 20 31 23 8 2 16 0 24-5M32 46c8 14 22 21 35 29 12 7 20 16 23 29M36 101c13 10 31 13 47 8" stroke="#FF641C" stroke-width="9" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title"><title id="title">Liapoldus — знак-клубок с кошачьими ушами</title><g transform="translate(0 1) scale(1.05)"><g fill="none" stroke="#FF641C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M35 39 31 12c10 4 18 10 25 20M93 39l4-27c-10 4-18 10-25 20"/>
+  <path d="M22 72c0-24 19-43 42-43s42 19 42 43c0 23-18 41-41 41-22 0-38-16-38-36 0-17 13-30 30-30 15 0 26 11 26 25 0 12-9 21-21 21-10 0-18-8-18-18 0-8 6-14 14-14 6 0 11 5 11 11"/>
+  <path d="M27 76c8-7 18-9 28-5 10 4 16 15 27 18 5 1 10 1 15-1M35 49c8 11 17 18 28 24 10 6 17 12 22 21M40 98c9 7 20 10 31 10"/>
+</g></g></svg>

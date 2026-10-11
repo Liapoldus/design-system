@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 18h10a4 4 0 0 0 .5-8A6 6 0 0 0 6 8.8 4.6 4.6 0 0 0 7 18Z"/><path d="M9 14h6M12 11v6" stroke="#FF641C" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-cloud">
+  <title id="title-cloud">Cloud connection</title>
+  <g stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7.2 18.5h10.2a4.2 4.2 0 0 0 .4-8.4 6.1 6.1 0 0 0-11.6-1.3 4.9 4.9 0 0 0 1 9.7Z"/><path stroke="#FF641C" d="M12 16V9m0 0-2.5 2.5M12 9l2.5 2.5"/>
+  </g>
+</svg>

@@ -7,18 +7,22 @@ import { fileURLToPath } from 'node:url'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const logoDirectory = join(root, 'assets/logo')
-const source = join(logoDirectory, 'app-icon.svg')
+const sources = [
+  { name: 'app-icon', source: join(logoDirectory, 'app-icon.svg') },
+  { name: 'app-icon-light', source: join(logoDirectory, 'app-icon-light.svg') },
+]
 const temporaryDirectory = await mkdtemp(join(tmpdir(), 'liapoldus-icon-'))
 
-async function rasterize(size, output) {
+async function rasterize(source, size, output) {
   execFileSync('rsvg-convert', ['--width', String(size), '--height', String(size), '--output', output, source], { stdio: 'inherit' })
 }
 
 try {
-  const appPNG = join(logoDirectory, 'app-icon.png')
+  for (const item of sources) {
+    await rasterize(item.source, 1024, join(logoDirectory, `${item.name}.png`))
+  }
   const windowsPNG = join(temporaryDirectory, 'windows.png')
-  await rasterize(1024, appPNG)
-  await rasterize(256, windowsPNG)
+  await rasterize(sources[0].source, 256, windowsPNG)
   const png = await readFile(windowsPNG)
 
   assert.deepEqual([...png.subarray(0, 8)], [137, 80, 78, 71, 13, 10, 26, 10], 'rsvg-convert did not produce a PNG icon')
@@ -36,4 +40,4 @@ try {
   await rm(temporaryDirectory, { recursive: true, force: true })
 }
 
-process.stdout.write('Generated 1024px app PNG and 256px Windows ICO from app-icon.svg\n')
+process.stdout.write('Generated light/dark 1024px app PNGs and 256px Windows ICO from SVG masters\n')

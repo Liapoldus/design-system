@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v14c0 1.7 3.6 3 8 3s8-1.3 8-3V5M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"/><path d="M7 7.4c1.3.8 3.1 1.1 5 1.1" stroke="#FF641C" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-database">
+  <title id="title-database">Database storage</title>
+  <g stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="12" cy="5.7" rx="7.1" ry="2.8"/><path d="M4.9 5.7v12.5c0 1.6 3.2 2.9 7.1 2.9s7.1-1.3 7.1-2.9V5.7"/><path d="M4.9 11.8c0 1.6 3.2 2.9 7.1 2.9s7.1-1.3 7.1-2.9"/><path stroke="#FF641C" d="M5.1 17.7c.5 1.4 3.3 2.5 6.9 2.5"/>
+  </g>
+</svg>

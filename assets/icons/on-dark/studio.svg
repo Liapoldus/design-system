@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-studio">
+  <title id="title-dark-studio">Studio workspace</title>
+  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2.8" y="4" width="18.4" height="16" rx="2"/><path d="M3 8h18M7.2 8v11.8"/><circle fill="#FF641C" stroke="#FF641C" cx="5.5" cy="6" r=".7"/><circle cx="8" cy="6" r=".7"/><path d="M10.3 11h7.5m-7.5 3.2h5.4"/><path stroke="#FF641C" d="m10.3 17 2 .1"/>
+  </g>
+</svg>

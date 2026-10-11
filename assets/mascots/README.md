@@ -1,11 +1,14 @@
-# Mascot assets
+# Маскот Liapoldus
 
-These transparent PNG illustrations were generated for the Liapoldus brand using
-the supplied mascot sheet as visual guidance. The sheet itself is not copied into
-this repository.
+SVG — редактируемые исходники сцен. PNG `cat-yarn.png` и `cat-server.png`
+собираются из соответствующих SVG командой `npm run build:mascots`; прозрачность
+и пропорции сохраняются.
 
-- `cat-yarn.png` — yarn/craft motif for first-run or empty project states.
-- `cat-server.png` — infrastructure motif for runtime and ecosystem onboarding.
+- `cat-yarn.svg` — кот с клубком для первого запуска и пустого состояния.
+- `cat-server.svg` — инфраструктурная сцена.
+- `cat-laptop.svg` — кот за ноутбуком.
+- `cat-box.svg` — кот у коробки с клубком.
+- `cat-sitting.svg` — спокойная базовая поза.
 
-Keep the alpha channel, preserve aspect ratio and use `object-fit: contain`.
-Illustrations are decorative; they must not communicate status or replace labels.
+Использовать с `object-fit: contain`. Иллюстрации декоративные: они не заменяют
+подписи и не обозначают состояние или результат операции.

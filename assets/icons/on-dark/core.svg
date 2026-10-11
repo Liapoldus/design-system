@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-core">
+  <title id="title-dark-core">Core control plane</title>
+  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="3.3" fill="#FF641C" stroke="#FF641C"/><circle cx="12" cy="4.2" r="1.7"/><circle cx="19.1" cy="8.1" r="1.7"/><circle cx="19.1" cy="16" r="1.7"/><circle cx="12" cy="19.8" r="1.7"/><circle cx="4.9" cy="16" r="1.7"/><circle cx="4.9" cy="8.1" r="1.7"/><path d="m12 8.7 0-2.8m2.9 3.1 2.7-1.5m-2.7 5.4 2.7 1.5m-5.6 2.3v-2.8m-2.9.5-2.7 1.5m2.7-5.4L6.4 9"/>
+  </g>
+</svg>

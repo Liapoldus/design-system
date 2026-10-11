@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-protocol">
+  <title id="title-dark-protocol">Plugin protocol</title>
+  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="5" width="6.2" height="5" rx="1.4"/><rect x="14.8" y="14" width="6.2" height="5" rx="1.4"/><path d="M9.2 7.5h4.2a3 3 0 0 1 3 3v1.8m-1.7-1.7 1.7 1.7 1.7-1.7M14.8 16.5h-4.2a3 3 0 0 1-3-3v-1.8m1.7 1.7-1.7-1.7-1.7 1.7"/><path stroke="#FF641C" d="M5.1 7.5h2"/>
+  </g>
+</svg>

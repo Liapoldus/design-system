@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-git">
+  <title id="title-dark-git">Git branches</title>
+  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 5.5v10.7a3.2 3.2 0 0 0 3.2 3.2h1.2a3.2 3.2 0 0 0 3.2-3.2V8.2A3.2 3.2 0 0 1 17.8 5"/><circle cx="7" cy="5" r="2.3"/><circle cx="17.8" cy="5" r="2.3"/><circle cx="7" cy="19" r="2.3"/><circle fill="#FF641C" stroke="#FF641C" cx="14.6" cy="12" r="2.1"/>
+  </g>
+</svg>

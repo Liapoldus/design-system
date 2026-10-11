@@ -1,8 +1,12 @@
 # Логотипы
 
-`app-icon.svg` — канонический исходник нативного desktop значка. PNG 1024×1024
-и Windows ICO 256×256 генерируются из него командой `npm run build:native-icons`
-(требуется `rsvg-convert`, пакет `librsvg`).
+`symbol.svg` — отдельный знак. `horizontal.svg` и `vertical.svg` включают
+слоган; `horizontal-compact.svg` предназначен для тесной шапки без слогана.
+`horizontal-on-dark.svg` и `app-icon.svg` рассчитаны на тёмную поверхность,
+`app-icon-light.svg` — на светлую.
 
-Горизонтальный и вертикальный варианты включают tagline. `symbol.svg` — знак без
-подложки; для приложения на тёмной подложке предназначен `app-icon.svg`.
+`app-icon.svg` и `app-icon-light.svg` — канонические исходники desktop-значков.
+PNG 1024×1024 и Windows ICO 256×256 генерируются командой
+`npm run build:native-icons` через `rsvg-convert` (`librsvg`). Логотипный текст
+использует поставляемую гарнитуру Onest; в приложении вместе с SVG подключается
+`fonts.css`.
