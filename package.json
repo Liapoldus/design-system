@@ -17,7 +17,10 @@
     "check:svg": "python3 scripts/validate-svg.py --render && npm run build:package && python3 scripts/validate-svg.py --package --render"
   },
   "files": [
-    "dist/",
+    "dist/logo/",
+    "dist/icons/",
+    "dist/mascots/",
+    "dist/fonts/",
     "tokens/",
     "docs/",
     "README.md",
