@@ -1,0 +1,25 @@
+{
+  "name": "@liapoldus/design-system",
+  "version": "0.1.0",
+  "description": "Brand assets, design tokens and iconography for the Liapoldus ecosystem.",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "build:native-icons": "node scripts/build-native-icons.mjs"
+  },
+  "files": [
+    "assets/",
+    "tokens/",
+    "docs/",
+    "README.md",
+    "LICENSE"
+  ],
+  "exports": {
+    "./tokens.css": "./tokens/tokens.css",
+    "./tokens.json": "./tokens/tokens.json",
+    "./logo/*": "./assets/logo/*",
+    "./icons/*": "./assets/icons/*",
+    "./mascots/*": "./assets/mascots/*"
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 140" fill="none">
+  <g transform="translate(4 4) scale(1.02)">
+    <path d="M25 39 22 13c11 4 20 11 27 21m54 5 3-26c-11 4-20 11-27 21" stroke="#FF641C" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M15 69c0-27 22-49 49-49s49 22 49 49c0 25-20 45-45 45-24 0-42-17-42-39 0-19 15-34 34-34 17 0 30 13 30 29 0 14-11 25-25 25-12 0-21-9-21-20 0-9 7-16 16-16 7 0 13 6 13 13" stroke="#FF641C" stroke-width="9" stroke-linecap="round"/>
+    <path d="M19 77c12-8 28-8 40 1 9 7 16 20 31 23 8 2 16 0 24-5M32 46c8 14 22 21 35 29 12 7 20 16 23 29M36 101c13 10 31 13 47 8" stroke="#FF641C" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <text x="150" y="75" fill="#FAF9F5" font-family="Inter, Manrope, Arial, sans-serif" font-size="64" font-weight="750" letter-spacing="-3">Liapoldus</text>
+  <text x="154" y="111" fill="#C1D0C5" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing=".4">Build. Distribute. Together.</text>
+</svg>
