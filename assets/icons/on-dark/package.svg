@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-package">
-  <title id="title-dark-package">Package</title>
-  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="m12 3.2 8 4.2v9.2l-8 4.2-8-4.2V7.4l8-4.2Z"/><path d="m4 7.4 8 4.3 8-4.3M12 11.7v9.1"/><path fill="#FFD4A3" stroke="#E3F0E7" d="m12 3.2 8 4.2-8 4.3-8-4.3 8-4.2Z"/>
-  </g>
-</svg>

@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-settings">
-  <title id="title-dark-settings">Settings gear</title>
-  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M10 3.5h4l.7 2.3a7 7 0 0 1 1.7 1l2.3-.6 2 3.5-1.7 1.7a7 7 0 0 1 0 2l1.7 1.7-2 3.5-2.3-.6a7 7 0 0 1-1.7 1l-.7 2.3h-4l-.7-2.3a7 7 0 0 1-1.7-1l-2.3.6-2-3.5L5 13.4a7 7 0 0 1 0-2L3.3 9.7l2-3.5 2.3.6a7 7 0 0 1 1.7-1L10 3.5Z"/><circle cx="12" cy="12.4" r="3.1"/><path stroke="#FF641C" d="M12 9.3a3.1 3.1 0 0 1 2.8 1.8"/>
-  </g>
-</svg>

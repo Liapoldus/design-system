@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-sdk">
-  <title id="title-dark-sdk">Plugin SDK</title>
-  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M8.1 5.2 4.5 12l3.6 6.8M15.9 5.2l3.6 6.8-3.6 6.8"/><path d="M12 4.3v4.1m0 7.2v4.1"/><circle fill="#FF641C" stroke="#FF641C" cx="12" cy="12" r="2.1"/>
-  </g>
-</svg>

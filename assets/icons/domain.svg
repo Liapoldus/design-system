@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-domain">
-  <title id="title-domain">Domain model</title>
-  <g stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="12" cy="5" r="2.4"/><circle cx="5.2" cy="17.8" r="2.4"/><circle cx="18.8" cy="17.8" r="2.4"/><path d="m10.8 7.2-4.4 8.4m6.8-8.4 4.4 8.4M7.6 17.8h8.8"/><circle fill="#FF641C" stroke="#FF641C" cx="12" cy="12.2" r="2"/>
-  </g>
-</svg>

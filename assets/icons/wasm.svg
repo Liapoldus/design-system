@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-wasm">
-  <title id="title-wasm">WASM module</title>
-  <g stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="m12 2.8 8.3 4.6v9.2l-8.3 4.6-8.3-4.6V7.4L12 2.8Z"/><path d="m3.9 7.4 8.1 4.7 8.1-4.7M12 12.1v9.1"/><path stroke="#FF641C" d="m9 9.1-1.5 2 1.5 2m6-4 1.5 2-1.5 2"/>
-  </g>
-</svg>

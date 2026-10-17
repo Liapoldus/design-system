@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-sliders">
-  <title id="title-sliders">Configuration sliders</title>
-  <g stroke="#1F3A32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M4 6.2h16M4 12h16M4 17.8h16"/><circle cx="9" cy="6.2" r="2.1" fill="#FAF9F5"/><circle fill="#FF641C" stroke="#FF641C" cx="15.2" cy="12" r="2.1"/><circle cx="7.1" cy="17.8" r="2.1" fill="#FAF9F5"/>
-  </g>
-</svg>

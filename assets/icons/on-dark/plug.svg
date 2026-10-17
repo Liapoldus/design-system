@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title-dark-plug">
-  <title id="title-dark-plug">Plugin connector</title>
-  <g stroke="#E3F0E7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M8 4.2v5.1m8-5.1v5.1M6 9.3h12v2.3a6 6 0 0 1-5 5.9v3.3h-2v-3.3a6 6 0 0 1-5-5.9V9.3Z"/><path stroke="#FF641C" d="M8 4.2v3m8-3v3"/>
-  </g>
-</svg>
